@@ -3,10 +3,10 @@
 This project involves analyzing a housing dataset, performing data cleaning, feature engineering, and building a linear regression model to predict housing values. The dataset contains information about various housing features such as the number of rooms, bedrooms, population, and median income. The goal is to create insights into the relationship between these features and the median house value.
 
 ## Libraries Used
-pandas: For data manipulation and analysis
-seaborn: For creating attractive and informative statistical graphics
-matplotlib: For data visualization
-sklearn: For machine learning tasks such as linear regression and model evaluation
+**pandas**: For data manipulation and analysis
+**seaborn**: For creating attractive and informative statistical graphics
+**matplotlib**: For data visualization
+**sklearn**: For machine learning tasks such as linear regression and model evaluation
 
 ## Steps Taken
 
