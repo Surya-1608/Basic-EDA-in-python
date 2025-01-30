@@ -4,8 +4,11 @@ This project involves analyzing a housing dataset, performing data cleaning, fea
 
 ## Libraries Used
 **pandas**: For data manipulation and analysis
+
 **seaborn**: For creating attractive and informative statistical graphics
+
 **matplotlib**: For data visualization
+
 **sklearn**: For machine learning tasks such as linear regression and model evaluation
 
 ## Steps Taken
